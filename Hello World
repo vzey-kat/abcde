@@ -6,3 +6,6 @@ contact=[a]
 #This section is done by dev2
 b=input("enter you age")
 contact.append(b)
+#This section by Likitha
+c=input("Enter your city")
+contact.append(c)
