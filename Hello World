@@ -1,2 +1,5 @@
 print("Hello World")
 print("This is Vijay")
+#This section is done by dev2
+b=input("enter you age")
+contact.append(b)
